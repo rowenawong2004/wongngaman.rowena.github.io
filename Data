@@ -1,0 +1,23 @@
+main:
+  - title: "Education"
+    url: /#education
+
+  - title: "Research Interest"
+    url: /#research-interest
+
+  - title: "Working Papers"
+    url: /#working-papers
+
+  - title: "Conference Proceedings"
+    url: /#conference-proceedings
+
+  - title: "Research Experience"
+    url: /#research-experience
+
+  - title: "Professional Experience"
+    url: /#professional-experience
+
+  - title: "Awards"
+    url: /#grants-honours-awards
+
+  - title: "Academic Service"
