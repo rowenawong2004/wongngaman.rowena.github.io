@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Nga-Man Wong"
-description              : ""
-repository               : "Rowenatheempress/Rowenatheempress.github.io"
+description              : "Academic homepage of Nga-Man Wong"
+repository               : "Rowenatheempress/wongngaman.rowena.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Nga-Man Wong"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Hi, I'm Nga-Man Wong from Hong Kong, a third-year student at EduHK with a focus on Computational Social Science and Curriculum Design, seeking a PhD position for Fall 2027"
+  bio              : "Undergraduate student at The Education University of Hong Kong, interested in AI in education, learning analytics, computational social science, curriculum design, and educational equity."
   location         : "Hong Kong"
-  employer         : Education University of Hong Kong
+  employer         : "The Education University of Hong Kong"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Nga+man+wong&hl=en&oi=ao"
   email            : "s1145167@s.eduhk.hk"
@@ -146,6 +146,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
