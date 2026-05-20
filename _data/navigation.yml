@@ -1,20 +1,27 @@
-- title: "Education"
-  url: /#-education
+main:
+  - title: "Homepage"
+    url: /
 
-- title: "Publications"
-  url: /#-publications
+  - title: "Education"
+    url: /#education
 
-- title: "Working Papers"
-  url: /#-working-papers
+  - title: "Research Interest"
+    url: /#research-interest
 
-- title: "Research Experience"
-  url: /#-research-experience
+  - title: "Working Papers"
+    url: /#working-papers
 
-- title: "Professional Experience"
-  url: /#-professional-experience
+  - title: "Conference Proceedings"
+    url: /#conference-proceedings
 
-- title: "Awards"
-  url: /#-grants-honours-and-awards
+  - title: "Research Experience"
+    url: /#research-experience
 
-- title: "Academic Service"
-  url: /#-academic-service
+  - title: "Professional Experience"
+    url: /#professional-experience
+
+  - title: "Awards"
+    url: /#grants-honours-awards
+
+  - title: "Academic Service"
+    url: /#academic-service
