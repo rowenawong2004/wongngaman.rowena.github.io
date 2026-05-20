@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Nga-Man Wong"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Undergraduate student at The Education University of Hong Kong, interested in AI in education, learning analytics, computational social science, curriculum design, and educational equity."
+  bio              : bio              : "Undergraduate student at The Education University of Hong Kong, interested in AI-enabled learning environments, data-informed education policy, student engagement, self-directed learning, and educational equity."
   location         : "Hong Kong"
   employer         : "The Education University of Hong Kong"
   pubmed           : 
